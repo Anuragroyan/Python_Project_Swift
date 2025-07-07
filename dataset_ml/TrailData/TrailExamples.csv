@@ -1,0 +1,15 @@
+distance,elevation,terrain,dangerous,risk
+1,0,paved,0,1
+2,0,dirt,0,12
+3,300,sand,0,34
+26,0,dirt,0,36
+26,600,dirt,0,39
+3,300,rocky,0,44
+26,600,sand,0,59
+50,0,dirt,0,60
+26,0,rocky,0,66
+26,0,dirt,1,86
+182,0,rocky,0,222
+182,600,rocky,0,225
+182,0,rocky,1,272
+182,1200,rocky,1,278
