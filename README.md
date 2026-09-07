@@ -39,6 +39,8 @@ The project demonstrates how machine learning models can be prepared as Core ML 
 
 A typical application can follow this pattern:
 
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fa6fba67-9ea0-40a7-9326-0f2efb1f2b87" />
+
 
 This approach allows the model to run locally on the device, making it suitable for applications that require fast predictions without sending user input to a remote backend.
